@@ -2,3 +2,6 @@
 
 Team: 
 - Oksana
+- Yana
+- Mikhail
+- Ania
