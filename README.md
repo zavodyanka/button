@@ -1,3 +1,6 @@
 # Project Button
-
-Mikhail
+- Team
+- Mikhail
+- Oksana
+- Yana
+- Anya
