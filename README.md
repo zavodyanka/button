@@ -1,7 +1,9 @@
 # Project Button
+## It will be HTML CSS Course
 
-Team: 
+### Team "Cool Programers":
+
+- Mikhail
 - Oksana
 - Yana
-- Mikhail
 - Ania
